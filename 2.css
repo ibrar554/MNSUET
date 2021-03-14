@@ -1,0 +1,25 @@
+body
+
+{
+	background-color: lightblue;
+	
+}
+h1
+{
+	text-align: center;
+	background-color: white;
+	border: ridge;
+	border-radius: 10px;
+	border-color: black;
+}
+h2
+{
+	text-align: center;
+	
+}
+.button
+{
+border: ridge;
+border-color: red;
+
+}
